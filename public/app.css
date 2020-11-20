@@ -1,0 +1,41 @@
+html {
+    background: #eceaea;
+}
+
+table tr th {
+	width: 1px;
+}
+
+table td.description {
+	width: 100%;
+}
+
+.uk-container {
+	padding: 30px;
+	margin-top: 20px;
+	background: white;
+}
+
+.div-404 div {
+	text-align: center;
+	padding: 20px;
+	color: #7d7d7d;
+}
+
+.pagination {
+	display: flex;
+    justify-content: center;
+}
+
+#filter-modal .footer {
+	display: flex;
+    justify-content: flex-end;
+}
+
+#filter-modal .date-form-div {
+    display: flex;
+}
+
+#filter-modal .date-form-div div {
+    flex: 1;
+}
